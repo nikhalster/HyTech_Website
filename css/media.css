@@ -1,0 +1,25 @@
+@media only screen and (min-width:768px) and (max-width:991px){
+
+	.cmp_logo {
+		text-align:  center;
+		float: none;
+        width: 100%;
+	}
+
+	.header_nav {
+		width:  100%;
+	}
+    .nitro_head{width: 48%;}
+    .hydro_head{width: 44%;}
+
+}
+@media only screen and (min-width:992px) and (max-width:1200px){
+   .cmp_logo img{max-width: 90%;}
+  .navigation ul li{padding: 0 6px;}
+   .manag_pic_sec{width: 242px;}
+    .prod_grade_block{margin: 0px;}
+    .navigation ul li a{font-size: 13px;padding: 5px 5px 22px;}
+    .navigation li ul{ top: 46px;}
+    .hydro_head{width: 35%;}
+}
+
