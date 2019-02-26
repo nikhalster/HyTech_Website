@@ -2,7 +2,7 @@ Navigation bar - Products list update
 On Hover Products image
 Image change
 Application list in one line
-The HYTECH Marketing
+The HYTECH Marketing - done
 iso and logo in about us left aligned with text
-add contact names
+add contact names - done
 
